@@ -1,0 +1,9 @@
+G:\C# WORK\Quasar Again\Quasar Again\bin\Debug\Quasar Again.exe.config
+G:\C# WORK\Quasar Again\Quasar Again\bin\Debug\Quasar Again.exe
+G:\C# WORK\Quasar Again\Quasar Again\bin\Debug\Quasar Again.pdb
+G:\C# WORK\Quasar Again\Quasar Again\obj\Debug\Quasar Again.csprojResolveAssemblyReference.cache
+G:\C# WORK\Quasar Again\Quasar Again\obj\Debug\Quasar_Again.Form1.resources
+G:\C# WORK\Quasar Again\Quasar Again\obj\Debug\Quasar_Again.Properties.Resources.resources
+G:\C# WORK\Quasar Again\Quasar Again\obj\Debug\Quasar Again.csproj.GenerateResource.Cache
+G:\C# WORK\Quasar Again\Quasar Again\obj\Debug\Quasar Again.exe
+G:\C# WORK\Quasar Again\Quasar Again\obj\Debug\Quasar Again.pdb
